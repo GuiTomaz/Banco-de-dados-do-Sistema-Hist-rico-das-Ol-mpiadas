@@ -1,3 +1,4 @@
+# Banco de dados - Sistema Histórico das Olímpiadas
 Este repositório contém o projeto final desenvolvido para a disciplina de Banco de Dados I do curso de Ciência da Computação na UFF. O objetivo principal foi aplicar conceitos de modelagem conceitual e lógica para estruturar um sistema capaz de armazenar e gerenciar dados históricos de competições olímpicas.
 
 ## Tecnologias e Ferramentas
